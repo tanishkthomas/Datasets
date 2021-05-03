@@ -1,1 +1,1 @@
-# This Repository consiste of some Datasets
+# This Repository consists of some Datasets
